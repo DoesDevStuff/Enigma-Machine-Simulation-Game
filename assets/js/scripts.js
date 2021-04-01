@@ -30,7 +30,7 @@ jQuery(document).ready(function() {
         Background slideshow
     */
 	$('.top-content').backstretch("assets/img/backgrounds/blitz.jpg");
-    $('.section-5-container').backstretch("assets/img/backgrounds/blitz.jpg");
+    $('.section-5-container').backstretch("assets/img/backgrounds/section5.jfif");
     
     /*
 	    Wow

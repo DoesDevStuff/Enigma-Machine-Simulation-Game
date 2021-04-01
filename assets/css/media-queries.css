@@ -11,7 +11,7 @@
 @media (min-width: 768px) and (max-width: 991px) {
 	
 	.navbar-expand-md .navbar-nav .nav-link { padding-left: 0.6rem; padding-right: 0.6rem; }
-	.navbar1-expand-md .navbar1-nav .nav-link { padding-left: 0.6rem; padding-right: 0.6rem; }
+	
 	.top-content .carousel-control-prev { left: -86px; }
 	.top-content .carousel-control-next { right: -86px; }
 
@@ -29,11 +29,6 @@
 	.navbar-dark .navbar-toggler { border-color: #444; }
 	.navbar-dark .navbar-toggler:focus { background: #333; outline: 0; }
 	.navbar-expand-md .navbar-nav .nav-link { padding-top: 0.3rem; padding-bottom: 0.3rem; }
-
-	.navbar1.navbar1-no-bg { background: #444; }
-	.navbar1-dark .navbar1-toggler { border-color: #444; }
-	.navbar1-dark .navbar1-toggler:focus { background: #333; outline: 0; }
-	.navbar1-expand-md .navbar1-nav .nav-link { padding-top: 0.3rem; padding-bottom: 0.3rem; }
 	
 	.top-content { padding: 20px 0 100px 0; }
 	.top-content h1 { font-size: 22px; }
@@ -76,7 +71,4 @@ only screen and (                min-resolution: 2dppx) {
     	background-image: url(../img/enigma.png) !important; background-repeat: no-repeat !important; background-size: 123px 34px !important;
     }
 	
-	.navbar1-brand1 {
-    	background-image: url(../img/logo.png) !important; background-repeat: no-repeat !important; background-size: 123px 34px !important;
-    }
 }

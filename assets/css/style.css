@@ -63,24 +63,6 @@ img { max-width: 100%; }
 	text-indent: -99999px;
 }
 
-.navbar1 { background: #444; transition: all .6s; backface-visibility: hidden; }
-
-.navbar1.navbar1-no-bg { background: #444; background: rgba(0, 0, 0, 0.2); }
-
-.navbar1-dark .navbar1-nav { font-size: 15px; color: #fff; text-transform: uppercase; }
-.navbar1-dark .navbar1-nav .nav-link { color: #fff; color: rgba(255, 255, 255, 0.8); border: 0; }
-.navbar1-dark .navbar1-nav .nav-link:hover { color: #fff; }
-.navbar1-dark .navbar1-nav .nav-link:focus { color: #fff; outline: 0; }
-
-.navbar1-expand-md .navbar1-nav .nav-link { padding-right: 1rem; padding-left: 1rem; }
-
-.navbar1-brand1 {
-	width: 145px;
-	background: url(../img/logo.png) left center no-repeat;
-	border: 0;
-	text-indent: -99999px;
-}
-
 #header {
 	
 	display: table;
