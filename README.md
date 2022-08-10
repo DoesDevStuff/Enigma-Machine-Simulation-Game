@@ -10,5 +10,12 @@ The project was done as a group of two. The main idea of the project was to crea
 - Creation of the website and programming for the same.
 - Wireframes and font selections as well as designing the logos
 - Understanding the observable interface to create the animated enigma machine
+- Embedding and testing the website on Mobile and PC
+- Final deployment on Github and maintaining this repository
 
-
+# Technology used
+- Html
+- Css
+- Javascript
+- Bootstrap
+- Git
