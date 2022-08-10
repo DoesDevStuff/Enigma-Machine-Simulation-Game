@@ -5,6 +5,7 @@ A short visual simulation to help visualise the working of enigma machine as don
 
 # Project description
 The project was done as a group of two. The main idea of the project was to create an informative interactive website.
+This project was part of an internal department competition as well. We received the highest grade for the project.
 
 ## My responsibilities
 - Creation of the website and programming for the same.
